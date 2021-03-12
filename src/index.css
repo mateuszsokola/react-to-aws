@@ -1,0 +1,20 @@
+@import "~antd/dist/antd.css";
+
+.content {
+  height: calc(100vh - 64px);
+  padding: 20px 50px;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.spinner {
+  width: 100%;
+  text-align: center;
+  padding: 100px 0;
+}
